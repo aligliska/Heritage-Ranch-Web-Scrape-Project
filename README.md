@@ -3,7 +3,7 @@ Heritage Ranch Web Scrape Project:
 This project was intended to be a webscrapping project to analyze HEB's dry dog food: Heritage Ranch. 
 Upon a few pull requests, the site blocked me :(
 
-Thus, I downloaded the suitable dry foods listed on the website (ones that contains all interested information) to analyze. 
+Thus, I downloaded html files for the available dry foods listed on the website (ones that contains all interested information) to analyze. 
 This project allows the user to look breakdown the ingredients, compare calorie content or Protein%/Fat%/Fiber% across all of their dry food. 
 Users can also estimate how much they would need to feed their dog for a day to meet their caloric needs. 
 
